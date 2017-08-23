@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.android\build-cache\d55626ddcb4159688c6f4887a4a4437c358b3453\output\jars\libs\internal_impl-23.0.0.jar"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-23.0.0-c1b4f3e42ce6747f5395a0fa4dd55224823abdaa.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\wMClientSdk\build\intermediates\bundles\default\classes.jar"
+        revision="25.0.0"
+        sha1="65fb37993e9f37adfc89e7c5369a47f0836720c5">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c8754df67eeee90870df094432e3790849b38ddd.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\pullrefresh\build\intermediates\bundles\default\classes.jar"
+        revision="25.0.0"
+        sha1="4dfbfbf50be0f6d559aa7ec71ac2db8acfe92efe">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e26f3aac8536ab8b08a3fdb0d3c2b2ec29c28ff4.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\Amap_2DMap_V5.2.0_20170627.jar"
+        revision="25.0.0"
+        sha1="15d491b0412f57284157d356bfcb9d6ea017226f">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\Amap_2DMap_V5.2.0_20170627-20456d24a1c1ed9294a8654acec609826ca8a461.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\agora-rtc-sdk.jar"
+        revision="25.0.0"
+        sha1="c9809cfd63b9de17704ed325aa07b4e21d100828">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\agora-rtc-sdk-1286b4ae84f6e27b5cdef6ae1ff46a48e025c9ce.jar" />
+    </item>
+    <item
+        jar="I:\as\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-23.0.0-47e251c074d97ace73d92d83f4e2e5c95cd9ff78.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\wMClientSdk\build\intermediates\bundles\default\libs\PlayerSDK.jar"
+        revision="25.0.0"
+        sha1="d95f72ec43152af178407150d9590b9f73785242">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\PlayerSDK-897036f28c5a713b8117fad5363911f226635380.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\org.apache.http.legacy.jar"
+        revision="25.0.0"
+        sha1="017030d11901291abf8f83a812984276b643ea0f">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\org.apache.http.legacy-e0614289919d86e70d2875b7820f9bbb53df3036.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.7-2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.android\build-cache\05b1e86cd910854f3e277c973d3e34c42abe76d7\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e8c56ca1ca9a1f839ea98607c2cb052e935a04cf.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\butterknife-7.0.1.jar"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\butterknife-7.0.1-0b6793da3d9259129dba12c315e8eee93096f5cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        revision="25.0.0"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\rxjava-1.1.5-74dd2eeb7003a467412f92d8accbdaab9a47a4fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.android\build-cache\313596407f9671850f1fb17bdd7c0fe9c0f78f25\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f037a58d8267beba65020b1fdf6679ef078e01d6.jar" />
+    </item>
+    <item
+        jar="I:\as\platforms\android-23\android.jar"
+        revision="25.0.0"
+        sha1="eee3e49de0e3c71c5f278ba7e4fe847483f9084c">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-7b1200f177f4653b7f4ea30ba78f3edabf52cd11.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\android-async-http-1.4.4.jar"
+        revision="25.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\android-async-http-1.4.4-ae980835417d3e1df73f9f4250b75376f4670056.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.13.0-f63c7ab08dbed3c34e0fe0b9b1a691240ffa1bb7.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\log4j-1.2.17.jar"
+        revision="25.0.0"
+        sha1="4f90475694c41965c9a0c8bac53ea5c690dea446">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\log4j-1.2.17-3eaba625cfab12981284597b2b8f28f9932098a4.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\okio-1.4.0.jar"
+        revision="25.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.4.0-ddc8de787160875220b005835dff34ebc3732e4c.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\wMClientSdk\build\intermediates\bundles\default\libs\wmplayer.jar"
+        revision="25.0.0"
+        sha1="62cfaf6c73f7c8cb7f2a2de7f230d9b4839aeb75">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\wmplayer-c38024c692bbf155449a353d31468e0427955c48.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.1\feab46062803513d6a8307c74b0084265855de1a\logging-interceptor-3.8.1.jar"
+        revision="25.0.0"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\logging-interceptor-3.8.1-35f89f41343a910ee7b1e50c7f9eddc874cc0a37.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\glide-3.7.0.jar"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\glide-3.7.0-0e75587911b07a4d3c58a8585ebdabc64ec2dbc9.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\AMap_Location_V3.4.1_20170629.jar"
+        revision="25.0.0"
+        sha1="ebe380d6da0d59db86ff68c843b3b8467ab26506">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\AMap_Location_V3.4.1_20170629-dd7b25c1fb8d05acb8dd3a89780ebbcb11958cd5.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\wMClientSdk\build\intermediates\bundles\default\libs\IntercomSdk.jar"
+        revision="25.0.0"
+        sha1="12629b365d9ec0698954961fecd0dbab3a1cc291">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\IntercomSdk-d712bd6b6d6e46e965f7c4cf703db139d8b10ca6.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\android-support-v7-recyclerview.jar"
+        revision="25.0.0"
+        sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\android-support-v7-recyclerview-ab585c62598a49bfb770b000acac651a4d5e7722.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\wMIMSdk\build\intermediates\bundles\default\classes.jar"
+        revision="25.0.0"
+        sha1="9d5ca9b90b683f586c5dd66d67f1a2e64fb30465">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-dfca0af76353639f87f96db9d6a0c954409f2c43.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\retrofit-2.1.0-02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\adapter-rxjava-2.1.0-a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\open_sdk_r5756.jar"
+        revision="25.0.0"
+        sha1="7f7bf100e53d9099032f113728725e1843e1fbe2">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\open_sdk_r5756-e6c89f8f134b53565a81c0bb9476f600f38d4bd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\converter-gson-2.1.0-fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\wMClientSdk\build\intermediates\bundles\default\libs\H264Decoder.jar"
+        revision="25.0.0"
+        sha1="782b22393a7fc1c54ccf5f68e954994b27ebee08">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\H264Decoder-9a82f435058c67d8ffc1495e51e85f118018254d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\butterknife-7.0.1-fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        revision="25.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-3.8.1-032b1d2117e56d98e15716cdfc48889f5c1fd244.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.android\build-cache\d55626ddcb4159688c6f4887a4a4437c358b3453\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0ea21ef43ec499c59cbccfbf0736600c655a6b4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.1.0\7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5\converter-scalars-2.1.0.jar"
+        revision="25.0.0"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\converter-scalars-2.1.0-f5920d01211ed20b03dd2977fe20d8ac1a753675.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\AMap_Search_V5.2.1_20170630.jar"
+        revision="25.0.0"
+        sha1="d724566d4793345f4de3654286ca47492a8b4398">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\AMap_Search_V5.2.1_20170630-d7499f7c1763a6fc0c6394bd3a2268a0e3b1a195.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\lz_zhangxun\libs\okhttp-2.4.0.jar"
+        revision="25.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-2.4.0-dc0125348f1c00d72040fb984d3633cb545add71.jar" />
+    </item>
+    <item
+        jar="I:\project_vomont\wMClientSdk\build\intermediates\bundles\default\libs\IPlaySDK.jar"
+        revision="25.0.0"
+        sha1="56337a705d4851275e1b8125b4e4ed2480776d72">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\IPlaySDK-64225c75f58cec44292cdac00b878fcd29acdde3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.android\build-cache\33fb8664fef526519cf890d61b0fbeefe57ad015\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ea728fcdb8a06c9fbe3944304f3e742dbb4ad424.jar" />
+    </item>
+    <item
+        jar="I:\as\platforms\android-23\optional\org.apache.http.legacy.jar"
+        revision="25.0.0"
+        sha1="017030d11901291abf8f83a812984276b643ea0f">
+        <dex dex="I:\project_vomont\lz_zhangxun\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-146c2305ef1b8c3cf0cfe88ec9f45e6684e2cd5d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Mon Aug 21 17:27:04 GMT+08:00 2017
+base.0=I\:\\project_vomont\\lz_zhangxun\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5cbe32589ee0db052d389c3213dbce3757f17720
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=I\:\\project_vomont\\lz_zhangxun\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8674286931fe249397604c038a73285db4c4ed9e\\classes.dex
+base.1=I\:\\project_vomont\\lz_zhangxun\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8674286931fe249397604c038a73285db4c4ed9e
+file.0=I\:\\project_vomont\\lz_zhangxun\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5cbe32589ee0db052d389c3213dbce3757f17720\\classes.dex

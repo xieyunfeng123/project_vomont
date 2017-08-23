@@ -1,0 +1,446 @@
+[
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\common_video_view.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\common_video_view.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_setting.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_video_setting.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1fad5b64bc09361c0ea6fdc0328cc7a644da475\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview_divider.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\gridpasswordview_divider.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview_textview.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\gridpasswordview_textview.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addpic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_addpic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_video_load_proress.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_video_load_proress.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1fad5b64bc09361c0ea6fdc0328cc7a644da475\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_add_pic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_gridview_add_pic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\window_voiceconferencing.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\window_voiceconferencing.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_ios_edit.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_ios_edit.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_previewpic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_previewpic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_man.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_search_man.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appproblem.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_appproblem.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_send_pic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_send_pic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playback.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_playback.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\menu_activity.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\menu_activity.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_msg.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_setting_msg.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_changepsd.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_changepsd.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sendpic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_sendpic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_video.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_video.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1fad5b64bc09361c0ea6fdc0328cc7a644da475\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_detal_listview.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_detal_listview.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1fad5b64bc09361c0ea6fdc0328cc7a644da475\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1fad5b64bc09361c0ea6fdc0328cc7a644da475\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip_setting.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_ip_setting.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchman.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_searchman.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registernum.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_registernum.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_load.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_list_load.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_local_video.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_local_video.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\view_actionsheet.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\view_actionsheet.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loadvideo.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_loadvideo.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_recyle_fail.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_recyle_fail.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_load_list.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_load_list.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1fad5b64bc09361c0ea6fdc0328cc7a644da475\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1fad5b64bc09361c0ea6fdc0328cc7a644da475\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list_pic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\fragment_list_pic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\fragment_group.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_recyle_group.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_recyle_group.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\layout_gridview.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\layout_gridview.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_ip.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_ip.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_play_back.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\fragment_play_back.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_group.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_select_group.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_allpic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_allpic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_setting.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_image_setting.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_realplay.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_realplay.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_pic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_setting_pic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload_list.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_upload_list.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_video.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_list.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\view_alertdialog.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\view_alertdialog.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verif_psd.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_verif_psd.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_picview.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_picview.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showpic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_showpic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_playback_comment.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_playback_comment.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\gridpasswordview.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\gridpasswordview.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_user.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_select_user.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_recyle_empty.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_recyle_empty.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\top_layout.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\top_layout.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e1fad5b64bc09361c0ea6fdc0328cc7a644da475\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\date_alert_dialog.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\date_alert_dialog.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\item_recyle_item.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\item_recyle_item.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_me.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_allpic.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_allpic.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_img.xml",
+        "source": "I:\\project_vomont\\lz_zhangxun\\src\\main\\res\\layout\\activity_detail_img.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\313596407f9671850f1fb17bdd7c0fe9c0f78f25\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "I:\\project_vomont\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\lz_zhangxun\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "I:\\project_vomont\\pullrefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    }
+]

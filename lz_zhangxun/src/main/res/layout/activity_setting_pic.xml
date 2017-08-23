@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_layout" />
+
+    <Button
+        android:id="@+id/pic_local"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="保存" />
+
+    <Button
+        android:id="@+id/pic_upload"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="上传" />
+
+</LinearLayout>

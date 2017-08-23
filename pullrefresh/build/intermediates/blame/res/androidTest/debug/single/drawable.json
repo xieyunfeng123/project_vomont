@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "I:\\project_vomont\\pullrefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "I:\\project_vomont\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\pullrefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progressbar_circle.xml",
+        "source": "I:\\project_vomont\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\progressbar_circle.xml"
+    },
+    {
+        "merged": "I:\\project_vomont\\pullrefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "I:\\project_vomont\\pullrefresh\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

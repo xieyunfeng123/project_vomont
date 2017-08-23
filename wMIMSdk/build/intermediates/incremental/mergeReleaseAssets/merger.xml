@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="I:\project_vomont\wMIMSdk\src\main\assets"/><source path="I:\project_vomont\wMIMSdk\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="I:\project_vomont\wMIMSdk\src\release\assets"/></dataSet></merger>
