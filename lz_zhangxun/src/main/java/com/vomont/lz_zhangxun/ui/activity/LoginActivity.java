@@ -3,10 +3,13 @@ package com.vomont.lz_zhangxun.ui.activity;
 import android.widget.EditText;
 
 import com.vomont.lz_zhangxun.R;
+import com.vomont.lz_zhangxun.api.ApiService;
 import com.vomont.lz_zhangxun.base.BaseActivity;
+import com.vomont.lz_zhangxun.bean.Update;
 import com.vomont.lz_zhangxun.bean.UserInfo;
 import com.vomont.lz_zhangxun.presenter.LoginPrensenter;
 import com.vomont.lz_zhangxun.utils.MD5Util;
+import com.vomont.lz_zhangxun.utils.ShareUtil;
 import com.vomont.lz_zhangxun.view.ILoginView;
 
 import butterknife.Bind;
@@ -37,15 +40,14 @@ public class LoginActivity extends BaseActivity<LoginPrensenter> implements ILog
     @Override
     public void initData() {
         super.initData();
-        login_num.setText("17601550157");
-        login_psd.setText("12345667");
-
+//        login_num.setText("17601550157");
+//        login_psd.setText("12345667");
     }
 
     @OnClick(R.id.login_app)
     public  void loginOnClick()
     {
-        mPresenter.getLoginInfo("259","17601550157", MD5Util.getMd5("123456"));
+        mPresenter.getLoginInfo(ApiService.login_msid,"17601550157", MD5Util.getMd5("123456"));
     }
 
     @Override
@@ -65,6 +67,16 @@ public class LoginActivity extends BaseActivity<LoginPrensenter> implements ILog
 
     @Override
     public void loginError() {
+
+    }
+
+    @Override
+    public void updateSucess(Update update) {
+
+    }
+
+    @Override
+    public void updateError() {
 
     }
 

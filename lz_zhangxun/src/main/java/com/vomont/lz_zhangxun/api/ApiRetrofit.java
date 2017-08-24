@@ -111,7 +111,6 @@ public class ApiRetrofit {
                 .addCallAdapterFactory(RxJavaCallAdapterFactory.create())//支持RxJava
                 .client(mClient)
                 .build();
-
         mApiService = mRetrofit.create(ApiService.class);
     }
 

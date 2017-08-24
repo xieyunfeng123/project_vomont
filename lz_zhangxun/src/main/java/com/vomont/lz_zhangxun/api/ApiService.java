@@ -2,6 +2,7 @@ package com.vomont.lz_zhangxun.api;
 
 import com.vomont.lz_zhangxun.bean.DepartmentBean;
 import com.vomont.lz_zhangxun.bean.ResultCallBack;
+import com.vomont.lz_zhangxun.bean.Update;
 import com.vomont.lz_zhangxun.bean.UserInfo;
 
 import retrofit2.http.Field;
@@ -36,9 +37,25 @@ public interface ApiService {
     //@GET("/")
     //Observable<UserInfo> getLoginInfo(@Query("msgid") String msgid, @Query("tel") String tel, @Query("pswd") String pswd);
     //post接口请求方式
+
+    /**
+     * 登录接口
+     * @param msgid 接口的id
+     * @param tel   用户名
+     * @param pswd  密码
+     * @return 用户信息
+     */
     @FormUrlEncoded
     @POST("/")
     Observable<UserInfo> getLoginInfo(@Field("msgid") String msgid, @Field("tel") String tel, @Field("pswd") String pswd);
-
+    public static  String login_msid="259";
+    /**
+     *更新的接口
+     * @param msgid 接口的id
+     * @return
+     */
+    @FormUrlEncoded
+    @POST("/")
+    Observable<Update> updateApp(@Field("msgid") String msgid);
 
 }

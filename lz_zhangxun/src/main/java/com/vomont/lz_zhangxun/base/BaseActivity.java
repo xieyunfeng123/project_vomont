@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import com.vomont.lz_zhangxun.R;
+import com.vomont.lz_zhangxun.utils.ACache;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -18,12 +19,14 @@ public abstract class BaseActivity<T extends BasePresenter>  extends Activity
 
     private static Activity mCurrentActivity;// 对所有activity进行管理
     public static List<Activity> mActivities = new LinkedList<Activity>();
+
+    protected ACache aCache;
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
         mPresenter = createPresenter();
-
+        aCache=ACache.get(this);
         //初始化的时候将其添加到集合中
         synchronized (mActivities) {
             mActivities.add(this);

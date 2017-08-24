@@ -2,19 +2,21 @@ package com.vomont.lz_zhangxun.bean;
 
 import com.google.gson.Gson;
 
+import java.io.Serializable;
+
 /**
  * Created by Administrator on 2017/8/21 0021.
  */
 
-public class UserInfo {
+public class UserInfo implements Serializable{
     //结果值(0-成功，1-失败，其他-错误码);
     public int  result;
 //    //登录的id
-//    private int  userid;
+    public int  userid;
 //    //用户账户的id
-//    private int accountid;
+    public int accountid;
 //    //用户签名
-//    private  String  signature;
+    public  String  signature;
 //
 //    private  int privilege;
 //    //veye用户名

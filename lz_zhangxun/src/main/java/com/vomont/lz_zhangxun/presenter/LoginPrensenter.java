@@ -4,6 +4,7 @@ import android.util.Log;
 
 import com.socks.library.KLog;
 import com.vomont.lz_zhangxun.base.BasePresenter;
+import com.vomont.lz_zhangxun.bean.Update;
 import com.vomont.lz_zhangxun.bean.UserInfo;
 import com.vomont.lz_zhangxun.view.ILoginView;
 
@@ -31,7 +32,6 @@ public class LoginPrensenter extends BasePresenter<ILoginView> {
             public void onError(Throwable e) {
                 e.printStackTrace();
                 KLog.e(e.getLocalizedMessage());
-                KLog.e(e.toString());
                 mView.loginError();
             }
 
@@ -41,6 +41,33 @@ public class LoginPrensenter extends BasePresenter<ILoginView> {
                 if (userInfo != null)
                     KLog.e(userInfo.result+"");
             }
+        });
+    }
+
+
+    public void  updateApp(String  msgid)
+    {
+        addSubscription(mApiService.updateApp(msgid), new Subscriber<Update>() {
+            @Override
+            public void onCompleted() {
+
+            }
+
+            @Override
+            public void onError(Throwable e) {
+                e.printStackTrace();
+                KLog.e(e.getLocalizedMessage());
+                mView.updateError();
+            }
+
+            @Override
+            public void onNext(Update update) {
+                mView.updateSucess(update);
+                if (update != null)
+                    KLog.e(update.result+"");
+            }
+
+
         });
     }
 }
