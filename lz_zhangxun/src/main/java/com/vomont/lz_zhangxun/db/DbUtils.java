@@ -40,6 +40,7 @@ public class DbUtils {
         ContentValues values = new ContentValues();
         values.put("ispack", 1);// key为字段名，value为值
         db.update( DatabaseHelper.db_user, values, "name=?", new String[] {password});
+        /////
     }
 
 }
